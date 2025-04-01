@@ -3,7 +3,8 @@
 	"package": "com.sg.mob_trims.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"MobTrimsDataMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
