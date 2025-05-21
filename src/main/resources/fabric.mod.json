@@ -3,9 +3,9 @@
 	"id": "sg-mob-trims",
 	"version": "${version}",
 	"name": "SG Mob Trims",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod that adds a chance to add armor trims to mobs with armor when spawned.",
 	"authors": [
-		"Me!"
+		"ArielM24"
 	],
 	"contact": {
 		"homepage": "https://github.com/ArielM24/sg-mob-trims",

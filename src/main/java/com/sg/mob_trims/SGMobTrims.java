@@ -61,7 +61,6 @@ public class SGMobTrims implements ModInitializer {
 				return;
 			}
 			equipment = n1.get("equipment").toString();
-			LOGGER.info(equipment);
 			if(equipment.contains("trim")){
 				return;
 			}
@@ -69,7 +68,6 @@ public class SGMobTrims implements ModInitializer {
          	equipment = equipment.replaceAll("_boots\"", "_boots\"," + trim);
          	equipment = equipment.replaceAll("_chestplate\"", "_chestplate\"," + trim);
          	equipment = equipment.replaceAll("_leggings\"", "_leggings\"," + trim);
-			LOGGER.info(equipment);
 			if(equipment.isEmpty()){
 				return;
 			}
