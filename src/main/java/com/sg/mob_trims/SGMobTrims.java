@@ -51,6 +51,9 @@ public class SGMobTrims implements ModInitializer {
 			if(hasArmorTrim){
 				return;
 			}
+			if(world.random.nextBoolean()){
+				return;
+			}
 			applyTrim(entity, world);
 		});	
 	}
