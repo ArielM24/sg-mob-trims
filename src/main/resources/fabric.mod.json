@@ -12,7 +12,7 @@
 		"sources": "https://github.com/ArielM24/sg-mob-trims"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/sg-mob-trims/icon.png",
+	"icon": "assets/sg-mob-trims/sg-mob-trims.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
